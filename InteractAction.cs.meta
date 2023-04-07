@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e10e8fe1c1ae52a4bb1cd5056b99f6a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemImage: {instanceID: 0}
+  - itemText: {instanceID: 0}
+  - bossPrefab: {fileID: 522262488388683466, guid: 738bf31986bea324bbcb4c90c4ffbfd2,
+      type: 3}
+  - bossRoom: {instanceID: 0}
+  - bossSpawn: {instanceID: 0}
+  - portal: {instanceID: 0}
+  - openchest: {fileID: 2055102311959635369, guid: 17b0c1ef334d17e4bbb74c4778001705,
+      type: 3}
+  - opendoor: {fileID: 2055102311959635369, guid: 8e9c401d7a70ec94d956296ea011f594,
+      type: 3}
+  - discoverchat: {instanceID: 0}
+  - invent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
